@@ -13,7 +13,7 @@ Chapter 1.1: Module 1: GIS <br/>
 Chapter 1.2: Module 2: Machine Learning <br/>
 Chapter 1.3: Module 3: GUI (TKinter) <br/>
 
-[Chapter Y: Project 1: Microsoft Excel Manipulation](ChpX_Excel.md) <br/>
+[Chapter Y: Project 1: Microsoft Excel Manipulation](Project01_Excel.md) <br/>
 Chapter Y: Project 2: Microsoft Word Manipulation <br/>
 Chapter Y: Project 3: Web Scrawling <br/>
 Chapter Y: Project 4: 2D Game Creation <br/>
